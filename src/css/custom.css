@@ -228,6 +228,34 @@ body.nav-md .container.body .right_col {
 .green {
   color: #1ABB9C;
 }
+.preaching{
+  color: #60CCC9;
+}
+.social {
+  color: #FCAB53;
+}
+.service {
+  color: #5E2B92;
+}
+.worship {
+  color: #AB2F39;
+}
+.bg-preaching{
+  background-color: #60CCC9 !important;
+  background-image: none;
+}
+.bg-social {
+  background-color: #FCAB53 !important;
+  background-image: none;
+}
+.bg-service {
+  background-color: #5E2B92 !important;
+  background-image: none;
+}
+.bg-worship {
+  background-color: #AB2F39 !important;
+  background-image: none;
+}
 .aero {
   color: #9CC2CB;
 }
@@ -1350,7 +1378,7 @@ ul.msg_list li a .message {
   border: 1px solid #D9DEE4;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
-  
+
 }
 .dropdown-menu>li>a {
   color: #5A738E;
@@ -1525,6 +1553,7 @@ span.right {
 .tile_count .tile_stats_count {
   border-left: 0px solid #333;
   padding: 0;
+  text-align: center;
 }
 .tile_stats_count .left {
   width: 15%;
